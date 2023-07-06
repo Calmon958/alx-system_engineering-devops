@@ -1,3 +1,4 @@
+#!/bin/bash
 Task 0: pwd, shows absolute path name.
 Task 1: ls, shows content list of your current directory
 Task 2: cd , change working directory to home directory
