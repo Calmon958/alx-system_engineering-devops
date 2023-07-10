@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -minddepth i -type d | wc -1
+find -minddepth i -type d | wc -1
